@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1000px;
+    min-width: 375px;
+    margin: auto;
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+    color: #5f574e;
+}
+
+img {
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+    min-width: 375px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+    color: #302d2c;
+}
+
+h1,
+h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+#prepTime {
+    background-color: #fff5fa;
+    padding: 7px;
+    padding-left: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+h2 {
+    color: #854632;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+h3 {
+    color: #7b284f;
+}
+
+li {
+    padding: 7px;
+}
+
+span {
+    font-weight: bold;
+}
+
+hr {
+    border: #e4ded8 1px solid;
+}
+
+#container {
+    max-width: 1000px;
+    min-width: 375px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border-bottom: 1px solid #e4ded8;
+    padding: 15px;
+}
+
+.colorTd {
+    font-weight: bold;
+    color: #854632;
+}
+
+#final {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
